@@ -1,0 +1,3 @@
+# Allow access to PHP files when included
+# This file allows includes to work properly
+Require all granted
