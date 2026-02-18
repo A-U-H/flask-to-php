@@ -30,7 +30,7 @@ Experience the difference between the two versions of the project. Note how the 
 
         Legacy version requiring a Python environment.
 
-- **Optimized Build (Kilo Code):** [Ecom Squire](http://localhost/ecom-squire/)
+- **Optimized Build (Kilo Code):** [Ecom Squire](http://ecom-squire.com/)
 
         The live version running smoothly on budget-friendly hosting.
 
